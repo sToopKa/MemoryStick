@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Запоминалка Напоминалка</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+    <string name="edit_note">Пишите заметочку</string>
+    <string name="edit_title_note">Пишите заголовочек</string>
+    <string name="date_reminder">Дата напоминания</string>
+    <string name="note_null">Хоть что-нибудь то напишите</string>
+    <string name="note_title">Заголовок</string>
+    <string name="note_text">Заметка</string>
+    <string name="note_date">напомню в</string>
+    <string name="note_date_done">напомнил в</string>
+    <string name="delete">Удалить</string>
+    <string name="dont_date">время не установлено</string>
+    <string name="tab_1">Все заметки</string>
+    <string name="tab_2">Важные заметки</string>
+    <string name="tab_3">Заметки с напоминанием</string>
+    <string name="toast_permission">Нужно Ваше разрешение!</string>
+
+    <string name="hello_blank_fragment" translatable="false">Hello blank fragment</string>
+    <string name="splash_text_1">Запомню!</string>
+    <string name="splash_text_2">Напомню!</string>
+
+</resources>

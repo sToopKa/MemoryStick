@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MemoryStick" parent="Theme.Material3.DayNight.NoActionBar">
+
+        <item name="android:statusBarColor">@color/backgroud_main</item>
+
+        <!-- Цвет StatusBar для версии Android младше 21 (Lollipop) -->
+        <item name="android:windowTranslucentStatus">true</item>
+        <item name="android:windowBackground">@color/backgroud_main</item>
+    </style>
+
+    <style name="Theme.MemoryStick" parent="Base.Theme.MemoryStick" />
+</resources>

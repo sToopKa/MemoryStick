@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MemoryStick</string>
+    <string name="edit_note">Write a note</string>
+    <string name="edit_title_note">Write a title</string>
+    <string name="date_reminder">Reminder date</string>
+    <string name="note_null">At least write something</string>
+    <string name="note_title">Heading</string>
+    <string name="note_text">The note</string>
+    <string name="note_date">I\'ll remind you in</string>
+    <string name="note_date_done">reminded in</string>
+    <string name="delete">Delete</string>
+    <string name="dont_date">time not set</string>
+    <string name="tab_1">" All notes"</string>
+    <string name="tab_2">" Important Notes"</string>
+    <string name="tab_3">Reminder notes</string>
+    <string name="toast_permission">" We need your permission!"</string>
+    <string name="splash_text_1">" I'll remember!"</string>
+    <string name="splash_text_2">" Let me remind you!"</string>
+</resources>

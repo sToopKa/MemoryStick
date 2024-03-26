@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="black">#FFF4F4</color>
+    <color name="backgroud_main">#554E4E</color>
+    <color name="white">#605E5E</color>
+    <color name="light1">#43B6B4B5</color>
+    <color name="light2">#23DD0016</color>
+    <color name="light3">#1B04B3A3</color>
+    <color name="color_icon">#BDC2CD</color>
+    <color name="fb_color">#5F6467</color>
+    <color name="cv_color">#5F6467</color>
+    <color name="transparent">#00FFFFFF</color>
+    <color name="tab_ind_color">#CDF7DCFD</color>
+    <color name="tab_selected_text_color">#CDF8EAFB</color>
+    <color name="tab_unselected_text_color">#CDF6DDFB</color>
+</resources>
